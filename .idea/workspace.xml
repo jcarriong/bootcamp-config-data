@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="86928985-6308-4780-8adc-cd2dd17a4072" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank-account-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bank-account-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank-customer-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bank-customer-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank-movements-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bank-movements-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/banking-product-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/banking-product-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/credit-card-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/credit-card-dev.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
