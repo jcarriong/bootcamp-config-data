@@ -1,9 +1,9 @@
 server:
-port: 8761
+  port: 8761
 eureka:
-client:
-registerWithEureka: false
-fetch-registry: false
-renewalPercentThreshold: 0.85
-serviceUrl:
-defaultZone: http://localhost:8761/eureka
+  client:
+    registerWithEureka: false
+    fetch-registry: false
+    renewalPercentThreshold: 0.85
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
